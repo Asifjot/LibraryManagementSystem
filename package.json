@@ -1,5 +1,5 @@
 {
-  "name": "librarymanagementsystem",
+  "name": "pokemonlibrarysystem",
   "version": "1.0.0",
   "description": "This repository contains the planning and design documents for our Library Management System project in the Open Source Web Programming course.",
   "main": "index.js",

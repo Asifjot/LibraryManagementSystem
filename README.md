@@ -1,6 +1,6 @@
-# Library Management System — Mini Capstone Milestone 2
+# Pokemon Management Library — Mini Capstone Milestone 3
 
-This repository contains the planning and design documents for our Library Management System project in the Open Source Web Programming course.
+This repository contains the planning and design documents for our Pokemon Management Library project in the Open Source Web Programming course.
 
 ## Technologies
 
@@ -8,7 +8,7 @@ This repository contains the planning and design documents for our Library Manag
 - TypeScript + Express.js
 - HTML, CSS, JavaScript
 
-## Milestone 2 Documents
+## Milestone 3 Documents
 
 - Project description: `docs/project-description.md`
 - Database design & ERD summary: `docs/database-design.md`
